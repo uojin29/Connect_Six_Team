@@ -13,3 +13,4 @@ public class GrayScaleButton extends JButton{
 		this.setBounds(125, 50, 150, 80);
 	}
 }
+ 

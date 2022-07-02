@@ -12,7 +12,7 @@ public class MenuBar extends JMenuBar{
 	JMenuItem save = new JMenuItem("Save");
 	
 	
-	public MenuBar(){
+	public MenuBar(){ 
 		createMenus();
 	}
 	

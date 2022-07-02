@@ -11,5 +11,5 @@ public class Button_4 extends JButton{
 	}
 	public void createButton() {
 		this.setBounds(725, 50, 150, 80);
-	}
+	} 
 }

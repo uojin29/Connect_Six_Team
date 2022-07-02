@@ -10,6 +10,6 @@ public class Button_3 extends JButton{
 		createButton();
 	}
 	public void createButton() {
-		this.setBounds(525, 50, 150, 80);
+		this.setBounds(525, 50, 150, 80); 
 	}
 }

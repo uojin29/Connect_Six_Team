@@ -5,7 +5,7 @@ import java.awt.event.*;
 import java.awt.image.BufferedImage;
 import java.util.*;
 
-public class ChangedImage extends JPanel{
+public class ChangedImage extends JPanel{ 
 	ChangedImage(){
 		this.setBounds(625, 150, 500, 500);
 	}

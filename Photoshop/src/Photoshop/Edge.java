@@ -12,5 +12,5 @@ public class Edge extends JButton{
 	public void createButton() {
 		this.setBounds(325, 50, 150, 80);
 		
-	}
+	} 
 }

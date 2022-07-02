@@ -9,7 +9,7 @@ public class OriginImage extends JPanel{
 	OriginImage(){
 		this.setBounds(75, 150, 500, 500);
 	}
-	public void paintComponent(Graphics g) {
+	public void paintComponent(Graphics g) { 
 		Graphics2D g2=(Graphics2D)g;
 		int imageProcessSize = 500;
 		if(MainFrame.image!= null) {

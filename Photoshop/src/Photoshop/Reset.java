@@ -12,4 +12,4 @@ public class Reset extends JButton{
 	public void createButton() {
 		this.setBounds(925, 50, 150, 80);
 	}
-}
+} 
